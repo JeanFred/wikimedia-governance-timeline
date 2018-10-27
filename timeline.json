@@ -19,6 +19,21 @@
         "text": {
           "headline": "Wikipedia founded"
         }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sue_Gardner_Feb_2013_portrait_crop_2.jpg/640px-Sue_Gardner_Feb_2013_portrait_crop_2.jpg",
+          "caption": "Sue Gardner in 2012.",
+          "credit": "<a href='https://commons.wikimedia.org/wiki/File:Sue_Gardner_Feb_2013_portrait_crop_2.jpg'>Victoria Will for the Wikimedia Foundation, CC-By-SA 3.0</a>"
+        },
+        "start_date": {
+          "month": "10",
+          "year": "2012"
+        },
+        "text": {
+          "headline": "Narrowing focus",
+          "text": "The WMF Board approves ED Sue Gardner's '<a href='https://meta.wikimedia.org/wiki/User:Sue_Gardner/Narrowing_focus'>Narrowing Focus</a>' proposal.<br/>In summary, the WMF is doing too many things and not doing them well enough. The WMF will now focus on technology and grantmaking. A number of existing programmes, e.g. community growth and individual fellowships, are terminated and replaced with grant funding. The WMF's Education Programme is 'spun out' to become the Wiki Education Foundation and a recipient of WMF grants. Supporting capacity building in chapters is explicitly ruled out of the WMF's scope."
+        }
       }
     ]
 }
