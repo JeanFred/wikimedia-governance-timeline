@@ -1,0 +1,24 @@
+{
+    "title": {
+        "text": {
+          "headline": "Wikimedia governance<br/> 2001 - 2018",
+          "text": "<p>Timeline of significant events affecting the governance of the Wikimedia movement as an input for the <a href='https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2018-20/Working_Groups/Roles_%26_Responsibilities'>Roles and Responsibilities working group</a>.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wiki_logo_Nupedia.jpg",
+          "caption": "Original Wikipedia logo, used until late 2001, and originally from Nupedia.",
+          "credit": "<a href='https://en.wikipedia.org/wiki/File:Wiki_logo_Nupedia.jpg'>Bjørn Smestad</a>"
+        },
+        "start_date": {
+          "month": "1",
+          "year": "2001"
+        },
+        "text": {
+          "headline": "Wikipedia founded"
+        }
+      }
+    ]
+}
