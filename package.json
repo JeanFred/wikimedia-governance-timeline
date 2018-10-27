@@ -1,0 +1,10 @@
+{
+  "name": "movement-roles-timeline",
+  "version": "1.0.0",
+  "description": "Timeline of significant events affecting the governance of the Wikimedia movement as an input for the Roles and Responsibilities working group.",
+  "author": "Chris Keating, Jean-Frédéric",
+  "license": "MIT",
+  "dependencies": {
+    "TimelineJS3": "github:nuknightlab/timelinejs3"
+  }
+}
